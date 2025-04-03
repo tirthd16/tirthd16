@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - [PixoEdit](https://www.pixoedit.online/)
 - [FindYourComp](https://www.findyourcomp.site/)
 - [SymbioticAds](https://www.symbioticads.site/)
-- [Invvites](https://www.invvites.com/)
+- [Invvites](https://invitee-tirths-projects.vercel.app/)
 - [Finger Print Solar Applications](https://finger-print-data.vercel.app/solar-applications)
 
 ### Chrome Extensions
