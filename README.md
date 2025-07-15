@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 ### Web Projects
 - [TimeTag](https://www.timetag.online/)
-- [OneTab](https://www.onetab.space/)
+- [HomeTab](https://www.hometab.online/)
 - [PixoEdit](https://www.pixoedit.online/)
 - [FindYourComp](https://www.findyourcomp.site/)
 - [SymbioticAds](https://www.symbioticads.site/)
